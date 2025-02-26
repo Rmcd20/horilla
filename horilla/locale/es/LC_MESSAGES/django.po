@@ -29099,3 +29099,18 @@ msgstr "Progreso"
 
 #~ msgid "Batch Code"
 #~ msgstr "Código de lote"
+
+msgid "No observation provided."
+msgstr "No se proporcionó ninguna observación."
+
+msgid "Provide an observation or justification:"
+msgstr "Proporcione una observación o justificación:"
+
+msgid "Explain your choice..."
+msgstr "Explique su elección..."
+
+msgid "No observation available"
+msgstr "No hay ninguna observación disponible."
+
+msgid "Error"
+msgstr "Error."
